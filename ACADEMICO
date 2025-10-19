@@ -1,0 +1,18 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e L�gica de Programa��o]
+// Professor   : Antonio Carlos Nicolodi 
+// Descri��o   : Aqui voc� descreve o que o programa faz! (fun��o)
+// Autor(a)    : ATHOS CAIO GUEDES DE OLIVEIRA
+// Data atual  : 03/09/2025
+Var
+// Se��o de Declara��es das vari�veis 
+q, r: inteiro
+
+Inicio
+// Se��o de Comandos, procedimento, fun��es, operadores, etc... 
+ q <- 10 div 3
+ r <- 10 mod 3
+ escreva ("quociente =", q)
+ escreva ("resto =", r)
+
+Fimalgoritmo
